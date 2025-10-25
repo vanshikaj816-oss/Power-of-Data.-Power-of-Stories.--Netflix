@@ -1,3 +1,4 @@
+Power of Data.-Netflix
 Slide 1: Title SlideBackground: Netflix image (second image)Centered Red Netflix LogoTitle: "Netflix Content Clustering Project"Subtitle: "Improving Personalization to Enhance User Experience"
 Slide 2: Problem StatementBlack background with red and white textText: Netflix is the world's largest streaming service with 301.6M subscribers (2025).Goal: Cluster Netflix shows to enhance recommendations and reduce subscriber churn.
 Slide 3: Company OverviewBlack backgroundData Highlights:Founded 1997 by Reed Hastings and Marc Randolph301.6 million global subscribersLargest markets: US&Canada, Europe/EMEA, Asia Pacific, Latin AmericaMention recent hits like Stranger Things and Squid Game
